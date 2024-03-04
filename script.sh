@@ -1,3 +1,5 @@
 ls
 ls -l
-dnf list
+dnf module list
+cd
+pwd

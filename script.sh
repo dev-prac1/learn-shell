@@ -5,4 +5,5 @@ cd
 pwd
 ls
 ls -l
-ls -A
+ls -
+rm hjk

@@ -3,4 +3,6 @@ ls -l
 dnf module list
 cd
 pwd
-touch hjk
+ls
+ls -l
+ls -A

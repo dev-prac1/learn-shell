@@ -1,7 +1,7 @@
 example() {
   echo hello world
 }
-
+# call function
 example
 
 # function has its own special variables
@@ -13,3 +13,4 @@ example1() {
 }
 
 example1 10 20 30
+example1 "$*"

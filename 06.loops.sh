@@ -6,8 +6,6 @@ while [$i -lt 10 ]; do
 done
 
 
-
-
 # for loop
 for fruit in apple banana orange ; do
   echo fruit - $fruit
